@@ -1,4 +1,14 @@
-dwm - dynamic window manager
+dwm/dttric - dynamic window manager fork by dttric
+based on dwm 6.4 have dwmblocks,noborder fix,autostart (/home/username/.dwm/autostart.sh) and i3 like binds
+to start:
+1: build dwmblocks in */dwm/dwmblocks/ and dwm itself
+2: write autostart.sh (shell script)
+(if you dont use dm) 3: start dwm
+(if u use dm) 4:write dwm.desktop by myself 
+
+
+
+here you go pls read original README:
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
